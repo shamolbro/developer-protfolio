@@ -2,11 +2,14 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0px;
 }
+
+/* welcome and dream big */
 h1{
     font-size: 45px;
 }
 .orange-colour{
     color: orange;
+    font-size: 30px;
 
 }
 .flexible-container{
@@ -44,6 +47,10 @@ h1{
 .size1{
     font-size:30px;
 }
+
+/* End */
+/* Experience */
+
 .exprerince-item{
     width: 40%;
     margin-left: 5%;
@@ -51,7 +58,7 @@ h1{
     padding-left: 2%;
     padding-right: 2%;
     border-radius: 10px;
-    box-shadow: 10px 10px 30px rgb(87, 202, 64);
+    box-shadow: 10px 10px 30px rgb(173, 194, 169);
     border: 9px rgb(32, 32, 31);
 
 }
@@ -71,6 +78,13 @@ h1{
     border-image: 1;
 
 }
+
+/* End */
+/* footer */
+
 footer p{
     text-align: center;
 }
+
+/*End*/
+
